@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Heat Exchanger Alpha,Exchanger,150.5,25.2,85.0
+Centrifugal Pump-01,Pump,210.0,45.5,32.5
+Distillation Column X,Column,55.2,12.8,115.0
+High-Pressure Boiler,Boiler,320.0,62.0,245.0
+Rotary Pump-02,Pump,115.8,32.4,38.2
+Heat Exchanger Beta,Exchanger,142.0,22.1,78.5
+Chemical Reactor R1,Reactor,85.0,15.5,150.0
+Centrifugal Pump-02,Pump,195.0,40.0,31.0
+Vacuum Column Y,Column,40.5,5.2,110.0
+Industrial Boiler B2,Boiler,280.5,58.0,230.0
